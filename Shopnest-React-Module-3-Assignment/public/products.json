@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Perfume",
+    "category": "Clothing",
+    "price": 1999,
+    "originalPrice": 2499,
+    "rating": 4.8,
+    "imageUrl": "images/products/perfume.jpg",
+    "description": "An elegant long-lasting fragrance with notes of jasmine, amber and soft musk. Comes in a gift-ready bottle."
+  },
+  {
+    "id": 2,
+    "name": "Floral Summer Dress",
+    "category": "Clothing",
+    "price": 2099,
+    "originalPrice": 2799,
+    "rating": 4.7,
+    "imageUrl": "images/products/dress.jpg",
+    "description": "A lightweight, breathable floral dress with a flattering fit-and-flare silhouette. Perfect for summer outings."
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 2974,
+    "originalPrice": 3499,
+    "rating": 4.6,
+    "imageUrl": "images/products/headphones.jpg",
+    "description": "Over-ear wireless headphones with deep bass, noise isolation and up to 30 hours of battery life."
+  },
+  {
+    "id": 4,
+    "name": "Premium Handbag",
+    "category": "Clothing",
+    "price": 2799,
+    "originalPrice": 3999,
+    "rating": 4.9,
+    "imageUrl": "images/products/handbag.jpg",
+    "description": "A structured premium handbag with a roomy interior, secure zip closure and detachable shoulder strap."
+  },
+  {
+    "id": 5,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 4099,
+    "originalPrice": 4999,
+    "rating": 4.5,
+    "imageUrl": "images/products/smartwatch.jpg",
+    "description": "Track your health, notifications and workouts with a bright display and a multi-day battery."
+  },
+  {
+    "id": 6,
+    "name": "Classic Sneakers",
+    "category": "Footwear",
+    "price": 2573,
+    "originalPrice": 3299,
+    "rating": 4.7,
+    "imageUrl": "images/products/sneakers.jpg",
+    "description": "Timeless low-top sneakers with a cushioned insole and durable rubber sole for all-day comfort."
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 1299,
+    "originalPrice": 1799,
+    "rating": 4.4,
+    "imageUrl": "images/products/speaker.jpg",
+    "description": "A compact portable speaker with punchy sound, Bluetooth pairing and a splash-resistant body."
+  },
+  {
+    "id": 8,
+    "name": "Men's Casual Shirt",
+    "category": "Clothing",
+    "price": 1199,
+    "originalPrice": 1699,
+    "rating": 4.3,
+    "imageUrl": "images/products/shirt.jpg",
+    "description": "A soft cotton casual shirt with a relaxed fit that works for the office or the weekend."
+  },
+  {
+    "id": 9,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 1899,
+    "originalPrice": 2699,
+    "rating": 4.6,
+    "imageUrl": "images/products/running-shoes.jpg",
+    "description": "Lightweight running shoes with responsive cushioning and a breathable mesh upper."
+  },
+  {
+    "id": 10,
+    "name": "JavaScript for Beginners",
+    "category": "Books",
+    "price": 599,
+    "originalPrice": 899,
+    "rating": 4.8,
+    "imageUrl": "images/products/javascript-book.jpg",
+    "description": "A friendly, hands-on introduction to JavaScript covering the basics through to small real projects."
+  },
+  {
+    "id": 11,
+    "name": "Complete Web Development Guide",
+    "category": "Books",
+    "price": 699,
+    "originalPrice": 999,
+    "rating": 4.7,
+    "imageUrl": "images/products/web-book.jpg",
+    "description": "A complete guide to modern web development: HTML, CSS, JavaScript and the tools that tie them together."
+  },
+  {
+    "id": 12,
+    "name": "Learn HTML and CSS",
+    "category": "Books",
+    "price": 499,
+    "originalPrice": 749,
+    "rating": 4.5,
+    "imageUrl": "images/products/html-css-book.jpg",
+    "description": "Learn to build and style web pages from scratch with clear examples and practice exercises."
+  }
+]
